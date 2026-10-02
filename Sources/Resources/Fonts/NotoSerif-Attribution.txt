@@ -1,0 +1,22 @@
+Noto Serif SC and Noto Serif TC
+Copyright 2017-2024 Adobe (http://www.adobe.com/).
+Version 2.003
+
+These font files are distributed unmodified under the SIL Open Font License,
+Version 1.1. See NotoSerif-LICENSE.txt for the complete license.
+
+Official source:
+https://github.com/notofonts/noto-cjk
+
+Downloaded from:
+https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/SubsetOTF/SC/NotoSerifSC-Regular.otf
+https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/SubsetOTF/SC/NotoSerifSC-Black.otf
+https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/SubsetOTF/TC/NotoSerifTC-Regular.otf
+https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/SubsetOTF/TC/NotoSerifTC-Black.otf
+https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/LICENSE
+
+SHA-256:
+NotoSerifSC-Regular.otf e8f396decc1f0963a016a989c3d8852e863d1350996f573860a80767c83a1cd3
+NotoSerifSC-Black.otf 91dde57622845beeb663f300813999febdb7fcd5e451bde199d7c954a9740cb4
+NotoSerifTC-Regular.otf 63515eb0622d589a2f4062e8757c598b3da3bffd053f69abd181c210158ef10c
+NotoSerifTC-Black.otf 55c68df309e702cdb56b9ffd6b8185468afc0cb070aa9c2f14099de0cae64d12

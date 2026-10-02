@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "Timetrace";
+"NSCameraUsageDescription" = "Capture photos to record how your stories change over time.";
+"NSPhotoLibraryAddUsageDescription" = "Save your exported story videos to Photos so you can keep and share them.";
