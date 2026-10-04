@@ -1,16 +1,16 @@
-# Timetrace &#8212; Privacy Policy
+# Momenoa &#8212; Privacy Policy
 
 [&#31616;&#20307;&#20013;&#25991;](zh-Hans.md) | [&#32321;&#39636;&#20013;&#25991;](zh-Hant.md) | [&#26085;&#26412;&#35486;](ja.md) | [English](en.md)
 
 Effective October 4, 2026
 
-This policy explains how Timetrace, developed by ZHENG YUAN, handles your information.
+This policy explains how Momenoa, developed by ZHENG YUAN, handles your information.
 
 ## Your records
 
-Timetrace stores your story names, photos, notes, and record dates on your device to display timelines, compare photos, play slideshows, and create videos. The app does not automatically send this content to the developer.
+Momenoa stores your story names, photos, notes, and record dates on your device to display timelines, compare photos, play slideshows, and create videos. The app does not automatically send this content to the developer.
 
-Timetrace has no accounts, advertising, tracking, or analytics SDKs.
+Momenoa has no accounts, advertising, tracking, or analytics SDKs.
 
 ## Permissions
 
@@ -20,19 +20,19 @@ Camera access is used to take photos. Add-only access to Photos is requested whe
 
 Content is shared only when you choose to share it using the system share sheet. The app or service you select handles that copy under its own privacy policy.
 
-Timetrace does not provide its own cloud sync. Depending on your settings, iOS device backups may include app data, and videos saved to Photos may sync through iCloud Photos. Apple manages these services under its privacy policy.
+Momenoa does not provide its own cloud sync. Depending on your settings, iOS device backups may include app data, and videos saved to Photos may sync through iCloud Photos. Apple manages these services under its privacy policy.
 
 ## Keeping and deleting data
 
-Your records remain on your device until you delete them or delete the app. You can delete photos or entire stories within Timetrace. Deleting the app removes its local app data.
+Your records remain on your device until you delete them or delete the app. You can delete photos or entire stories within Momenoa. Deleting the app removes its local app data.
 
-Deleting content from Timetrace does not delete copies saved to Photos, shared with other apps or people, or included in backups. Manage those copies in the relevant app or service.
+Deleting content from Momenoa does not delete copies saved to Photos, shared with other apps or people, or included in backups. Manage those copies in the relevant app or service.
 
 <a name="support"></a>
 
 ## Support
 
-For help with Timetrace or a privacy question, contact ZHENG YUAN:
+For help with Momenoa or a privacy question, contact ZHENG YUAN:
 
 [adeliaehd85512b@gmail.com](mailto:adeliaehd85512b@gmail.com)
 
