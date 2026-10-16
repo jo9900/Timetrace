@@ -4,7 +4,7 @@
 
 Effective October 4, 2026
 
-This policy explains how Momenoa, developed by ZHENG YUAN, handles your information.
+This policy explains how Momenoa handles your information.
 
 ## Your records
 
@@ -32,7 +32,7 @@ Deleting content from Momenoa does not delete copies saved to Photos, shared wit
 
 ## Support
 
-For help with Momenoa or a privacy question, contact ZHENG YUAN:
+For help with Momenoa or a privacy question, email:
 
 [adeliaehd85512b@gmail.com](mailto:adeliaehd85512b@gmail.com)
 
